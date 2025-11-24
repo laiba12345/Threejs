@@ -1,10 +1,7 @@
-# Three.js Project — Run Instructions
+# Three.js Project
 
-Follow these steps to run the project locally:
 
-### 1. Install Dependencies
+### Install dependencies and run the project
 ```bash
 npm install
-
-### 2. Run
 npm run dev
